@@ -398,6 +398,7 @@
 					"$(SRCROOT)/../../../../../../native/ios/Pods/Headers/Public/React-Core/**",
 					"$(SRCROOT)/../../../../../ios/Pods/Headers/Public/React-jsi/**",
 					"$(SRCROOT)/../../../../../../native/ios/Pods/Headers/Public/React-jsi/**",
+					"$(SRCROOT)/../../../../../ios/Pods/Headers/Public/**",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -452,6 +453,7 @@
 					"$(SRCROOT)/../../../../../../native/ios/Pods/Headers/Public/React-Core/**",
 					"$(SRCROOT)/../../../../../ios/Pods/Headers/Public/React-jsi/**",
 					"$(SRCROOT)/../../../../../../native/ios/Pods/Headers/Public/React-jsi/**",
+					"$(SRCROOT)/../../../../../ios/Pods/Headers/Public/**",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
